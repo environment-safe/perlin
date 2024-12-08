@@ -1,5 +1,5 @@
 {
-    "name": "perlin",
+    "name": "@environment-safe/perlin",
     "version": "0.0.1",
     "type": "module",
     "main": "dist/index.mjs",
@@ -23,17 +23,17 @@
             "require": "./dist/index.cjs"
         }
     },
-    "homepage": "null",
-    "description": "null",
+    "homepage": "https://api.github.com/repos/environment-safe/perlin",
+    "description": "Generate Perlin noise in ESM",
     "keywords": [],
-    "author": "null <null>()",
+    "author": "Abbey Hawk Sparrow <khrome>(http://abbeyhawksparrow.com)",
     "contributors": [],
     "repository": {
         "type": "git",
-        "url": "null"
+        "url": "https://github.com/environment-safe/perlin"
     },
     "bugs": {
-        "url": "null"
+        "url": "https://api.github.com/repos/environment-safe/perlin/issues"
     },
     "moka": {
         "firefox": {
